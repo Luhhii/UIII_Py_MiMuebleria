@@ -83,7 +83,7 @@ class Inicio extends StatelessWidget {
           child: Column(children: <Widget>[
             Row(
               mainAxisAlignment: MainAxisAlignment.center,
-              child: Column(
+              children: Column(
                 children: <Widget>[
                   Padding(
                     padding: EdgeInsets.all(10),
