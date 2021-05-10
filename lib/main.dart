@@ -127,12 +127,11 @@ class Inicio extends StatelessWidget {
                     )
                   ],
                 ),//r1 columna 2
-                ], //fin de widget
+              ], //fin de widget
                 
-              ), //fin de fila
-            ], //fin de widget
-          ), //fin de column child
-        ), //fin de box decoration
+            ), //fin de fila
+          ], //fin de widget
+        ), //fin de column child //fin de box decoration
       ), //fin de body center
     ); //fin de scaffold
   } //fin de widget
