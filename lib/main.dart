@@ -93,7 +93,7 @@ class Inicio extends StatelessWidget {
                       shape: new RoundedRectangleBorder(
                         borderRadius: BorderRadius.circular(10.0),
                         onPressed: () {
-                          Navigator.pushNamed(context, "/Inicio");
+                          Navigator.pushNamed(context, "/inicio");
                         },
                         child: SizedBox(
                           width: 100,
