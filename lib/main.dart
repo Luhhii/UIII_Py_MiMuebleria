@@ -91,7 +91,7 @@ class Inicio extends StatelessWidget {
                     child: RaisedButton(
                       color: Colors.amber,
                       shape: new RoundedRectangleBorder(
-                        borderRadius: BorderRadius.circular(10.0),
+                        borderRadius: BorderRadius.circular(10.0);
                         onPressed: () {
                           Navigator.pushNamed(context, "/inicio");
                         },
